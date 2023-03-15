@@ -1,5 +1,5 @@
 # Discord.js Bot Template (in Typescript)
-A template for developers to quickly start coding their discord bots with the basic configuration already handled.
+A template for developers to quickly start coding their discord bots with the basic configuration already handled. Uses NodeNext module, but can be configured in `./tsconfig.json`.
 
 ## 1. Clone the project
 ```bash
