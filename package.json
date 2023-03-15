@@ -1,0 +1,38 @@
+{
+  "name": "discord_bot_template_ts",
+  "version": "1.0.0",
+  "description": "Discord.js bot template in Typescript",
+  "author": {
+    "name": "FeedTheMEe",
+    "url": "https://github.com/FeedTheMEe"
+  },
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "tsc-watch --onSuccess \"node ./dist/index.js\"",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.3",
+    "tsc-watch": "^6.0.0",
+    "typescript": "^4.9.5"
+  },
+  "keywords": [
+    "bot",
+    "discord bot",
+    "discord_bot",
+    "discord.js",
+    "discord",
+    "discordjs",
+    "node.js",
+    "node",
+    "nodejs",
+    "template",
+    "ts",
+    "typescript"
+  ]
+}
